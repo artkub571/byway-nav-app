@@ -2,7 +2,7 @@
 
 Motorcycle navigation for UK green lanes: legal byways and unclassified roads from council rights-of-way data, offline maps, offline routing, ride recording.
 
-This repository only holds the app's releases. Download the latest `.apk` from **Releases**.
+**Download the app: https://sync.arturkubala.com/** (always the newest build), or the latest `.apk` from **Releases**. This repository only holds the app's releases.
 
 ## Installing
 
